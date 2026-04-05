@@ -4,6 +4,7 @@ I am learning TypeScript daily and documenting everything here.
 
 ## Progress
 - Day 1: Basics, Variables, Functions
+- Day 2: Array, Object and Tuple
 
 ## Goal
 Become strong in TypeScript for frontend/backend development.
