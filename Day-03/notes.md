@@ -1,0 +1,12 @@
+# TS Config File
+- Run `tsc --init` to create `tsconfig.json`.
+- Run `tsc` to convert TypeScript files into JavaScript.
+- Use `tsc -w` to recompile files automatically on change.
+- Use `tsc index.ts -w` to watch only `index.ts`.
+- Use `node --watch index.js` to rerun the JS file on change.
+- `"rootDir": "./src"` tells TypeScript where your source files are.
+- `"outDir": "./dist"` puts the compiled JavaScript in `dist`.
+- `"include": ["src/**/*"]` includes all files inside `src`.
+- `"exclude": ["node_modules"]` skips the `node_modules` folder.
+- `"allowJs": true` lets TypeScript work with JavaScript files too.
+- `"noEmitOnError": true` stops JS output if there are errors.

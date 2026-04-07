@@ -11,6 +11,7 @@
 // arr.push("hello")
 
 // let arr:any = [1,2,3,4,"sshs",{},[],null,undefined] //use any to ignore errors
+// console.log(arr);
 
 // Tuple:- fixed length
 // let tuple:[number,boolean,string] = [5,true,"hello"]
@@ -23,9 +24,9 @@
 
 // const graph: [x: number, y: number] = [55.2, 41.3]; // named tuple
 // console.log(graph);
-// const typlegraph: [number, number] = [55.2, 41.3];
-// const [x,y] = typlegraph // destructuring tuple
-// console.log(graph);
+// const tuplegraph: [number, number] = [55.2, 41.3];
+// const [x,y] = tuplegraph // destructuring tuple
+// console.log(tuplegraph);
 
 // Object:-
 let user:{
