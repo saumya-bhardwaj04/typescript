@@ -6,6 +6,7 @@ I am learning TypeScript daily and documenting everything here.
 - Day 1: Basics, Variables, Functions
 - Day 2: Array, Object and Tuple
 - Day 3: Ts config file
+- Day 4: Any, Unknown and Never
 
 ## Goal
 Become strong in TypeScript for frontend/backend development.
