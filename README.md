@@ -7,6 +7,7 @@ I am learning TypeScript daily and documenting everything here.
 - Day 2: Array, Object and Tuple
 - Day 3: Ts config file
 - Day 4: Any, Unknown and Never
+- Day 5: Class, Access Modifiers and Inheritance
 
 ## Goal
 Become strong in TypeScript for frontend/backend development.
