@@ -9,6 +9,7 @@ I am learning TypeScript daily and documenting everything here.
 - Day 4: Any, Unknown and Never
 - Day 5: Class, Access Modifiers and Inheritance
 - Day 6: Type and Interface
+- Day 7: Abstract class Vs Interface
 
 ## Goal
 Become strong in TypeScript for frontend/backend development.
