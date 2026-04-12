@@ -10,6 +10,7 @@ I am learning TypeScript daily and documenting everything here.
 - Day 5: Class, Access Modifiers and Inheritance
 - Day 6: Type and Interface
 - Day 7: Abstract class Vs Interface
+- Day 8: Generics
 
 ## Goal
 Become strong in TypeScript for frontend/backend development.
