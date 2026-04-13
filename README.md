@@ -5,12 +5,13 @@ I am learning TypeScript daily and documenting everything here.
 ## Progress
 - Day 1: Basics, Variables, Functions
 - Day 2: Array, Object and Tuple
-- Day 3: Ts config file
+- Day 3: Ts Config File
 - Day 4: Any, Unknown and Never
 - Day 5: Class, Access Modifiers and Inheritance
 - Day 6: Type and Interface
-- Day 7: Abstract class Vs Interface
+- Day 7: Abstract Class Vs Interface
 - Day 8: Generics
+- Day 9: Generics in Class
 
 ## Goal
 Become strong in TypeScript for frontend/backend development.
