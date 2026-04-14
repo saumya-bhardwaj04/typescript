@@ -12,6 +12,7 @@ I am learning TypeScript daily and documenting everything here.
 - Day 7: Abstract Class Vs Interface
 - Day 8: Generics
 - Day 9: Generics in Class
+- Day 10: Ts with html,ss
 
 ## Goal
 Become strong in TypeScript for frontend/backend development.
