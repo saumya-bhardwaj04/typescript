@@ -14,6 +14,7 @@ I am learning TypeScript daily and documenting everything here.
 - Day 9: Generics in Class
 - Day 10: Ts with html,ss
 - Day 11: Ts with react
+- Day 12: Ts with node
 
 ## Goal
 Become strong in TypeScript for frontend/backend development.
